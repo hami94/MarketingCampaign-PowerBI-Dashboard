@@ -79,6 +79,14 @@ From the dashboard:
 4. Identify campaigns with strong ROI.
 5. Provide an interactive dashboard for business analysis.
 
+## Dashboard Preview
+
+  Page 1 – Marketing Campaign Performance Dashboard
+  ![Dashboard Page 1](dashboard-page-1.png)
+
+  Page 2 – Campaign Analysis
+  ![Dashboard Page 2](dashboard-page-2.png)
+
 ## Skills Demonstrated
 
 - Power BI Dashboard Development
